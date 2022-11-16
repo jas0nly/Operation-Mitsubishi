@@ -41,13 +41,7 @@
     color:purple;
 }
 .art::before{
-    content: '';
-    position: absolute;
     
-    width: 939px;
-    height: 204px;
-    bottom: 38px;
-    right: -50px;
 }
 .news-col-left {
     mix-blend-mode: lighten;
