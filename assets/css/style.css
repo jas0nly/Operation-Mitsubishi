@@ -246,7 +246,7 @@ footer {
         display: none;
     }
     .mobile-menu{
-        padding: 10px 50px;
+        padding: 20px 30px;
         display: flex;
         justify-content: space-between;
         align-items: center;
