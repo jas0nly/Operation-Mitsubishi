@@ -366,10 +366,24 @@ footer {
     .footer-menu{
         margin-bottom: 10px;
     }
+    #myVideo{
+        display: none;
+    }
+    .mobHero{
+        display: block !important;
+        height: 100vh;
+        object-fit: cover;
+        background-position: center;
+        background-size: cover;
+        
+        
+    }
+}
+.mobHero{
+    display: none;
 }
 #myVideo {
     position: relative;
-   
     right: 0;
     bottom: 0;
     min-width: 100%;
